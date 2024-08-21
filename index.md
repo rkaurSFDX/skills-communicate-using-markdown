@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] one
+- [ ] two
+- [ ] three
